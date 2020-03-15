@@ -95,12 +95,14 @@
     height: 46px;
     background-color: #fff;
     line-height: 46px;
+    color: red;
     /*margin-left: 10px;*/
     /*align-content: space-between;*/
   }
   /deep/ .site-category, a:hover{
     background-color: #ff6700;
-    color:#fff;
+    color: green;
+    /*display: block;*/
     /*opacity: 1;*/
   }
   /deep/ .el-carousel__arrow {
